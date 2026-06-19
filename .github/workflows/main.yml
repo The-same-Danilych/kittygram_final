@@ -1,4 +1,4 @@
-ame: Kittygram Workflow
+name: Kittygram Workflow
 
 on:
   push:
