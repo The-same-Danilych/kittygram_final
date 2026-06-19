@@ -59,6 +59,6 @@
     docker compose up --build
     После сборки приложение будет доступно по адресу: http://localhost:8000
 
-### 4. Применить миграции (если нужно)
+### 4. Применить миграции
     bash
     docker compose exec backend python manage.py migrate
